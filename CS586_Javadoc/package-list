@@ -1,0 +1,8 @@
+iit.softwaresystarch.project.controller
+iit.softwaresystarch.project.model
+iit.softwaresystarch.project.model.actions
+iit.softwaresystarch.project.model.datastores
+iit.softwaresystarch.project.model.efsms
+iit.softwaresystarch.project.model.factories
+iit.softwaresystarch.project.model.states
+iit.softwaresystarch.project.view
